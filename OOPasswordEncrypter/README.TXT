@@ -1,0 +1,1 @@
+[This was a test of how I could perform different methods of hashing / encrypting a password field using OOP]
